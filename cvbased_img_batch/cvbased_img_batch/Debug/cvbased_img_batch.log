@@ -1,0 +1,8 @@
+﻿  cvbased_img_batch.cpp
+d:\opencv-3.2.0_withsource\build\install\include\opencv2\core\mat.hpp(1926): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv-3.2.0_withsource\build\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv-3.2.0_withsource\build\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv-3.2.0_withsource\build\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv-3.2.0_withsource\build\install\include\opencv2\imgproc.hpp(617): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  cvbased_img_batch.vcxproj -> E:\opencv project\cvbased_img_batch\Debug\cvbased_img_batch.exe
+  cvbased_img_batch.vcxproj -> E:\opencv project\cvbased_img_batch\Debug\cvbased_img_batch.pdb (Partial PDB)
